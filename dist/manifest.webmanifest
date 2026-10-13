@@ -1,0 +1,12 @@
+{
+  "name": "DR TEC Daily Report",
+  "short_name": "DR TEC Report",
+  "description": "Daily report preparation for DR TEC COMPUTERS – ALTALLAH BRANCH",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
